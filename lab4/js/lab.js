@@ -1,6 +1,15 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// Rock Paper Scissors
+// An implementation of the game
+// Author: Nicole Maldonado
+// Date: April 21, 2025
+
+// create all three icons
+// collect user imput 
+// Validate the input
+// Collect other users input
+// Validate that input too
+// Test win, draw, lose options
+
 
 // Constants
 
